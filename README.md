@@ -9,6 +9,7 @@ The project showcases the following functionalities:
 - Updating existing contact information.
 - Deleting contacts from the database.
 - Same happens with countries.
+- Two Presentation Layers (Console Application, WinForms Application).  
 
 
 ## Features
@@ -26,4 +27,4 @@ The project showcases the following functionalities:
 - **`testDeleteCountry(int ID)`**: Delete a country from the database.  
 - **`testGetAllCountries()`**: Display a list of all countries.  
 - **`testIsCountryExist(int ID)`**: Check if a country with a specific ID exists.  
-- **`testIsCountryExist(string Name)`**: Check if a country with a specific name exists.  
+- **`testIsCountryExist(string Name)`**: Check if a country with a specific name exists.
